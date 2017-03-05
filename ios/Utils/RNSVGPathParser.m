@@ -7,7 +7,7 @@
  */
 
 #import "RNSVGPathParser.h"
-#import <React/RCTLog.h>
+#import "RCTLog.h"
 
 @implementation RNSVGPathParser : NSObject 
 {

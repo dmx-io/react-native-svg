@@ -6,8 +6,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <React/RCTBridge.h>
-#import <React/RCTUIManager.h>
+#import "RCTBridge.h"
+#import "RCTUIManager.h"
 #import "RNSVGSvgViewManager.h"
 #import "RNSVGSvgView.h"
 

@@ -9,7 +9,7 @@
 #import "RNSVGSolidColorBrush.h"
 
 #import "RCTConvert+RNSVG.h"
-#import <React/RCTLog.h>
+#import "RCTLog.h"
 
 @implementation RNSVGSolidColorBrush
 {
